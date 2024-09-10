@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My online name is Flibat also known as Kuraa! I was born in the United States (🇺🇸), I'm Mexican-American (🇲🇽). I've been programming for 5+ years now. I'm passionate about open-source projects. I mainly do projects on Roblox and Discord, but occasionally, when I'm bored, I do some projects on GitHub.
+
+In my free time I like to watch movies (🎞️) and anime (📺), to listen to music (🎵)
+
+____
+
+[![ItzFlibat's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=itzflibat&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/itzflibat)
+<br>
+[![ItzFlibat Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=itzflibat&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&range=all_time)](https://wakatime.com/@itzflibat)
+
 <!--
 **ItzFlibat/ItzFlibat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
