@@ -4,6 +4,13 @@ My online name is Flibat also known as Kuraa! I was born in the United States (�
 
 In my free time I like to watch movies (🎞️) and anime (📺), to listen to music (🎵)
 
+Would you like to find me?
+
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://youtube.com/@ItzFlibat)](https://youtube.com/@ItzFlibat)
+[![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/itzflibat)](https://x.com/itzflibat)
+[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://twitch.tv/itzflibat)](https://twitch.tv/itzflibat)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://dsc.gg/itzflibat)](https://dsc.gg/itzflibat)
+
 ____
 
 [![ItzFlibat's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=itzflibat&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/itzflibat)
