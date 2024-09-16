@@ -10,6 +10,9 @@ Would you like to find me?
 [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/itzflibat)](https://x.com/itzflibat)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://twitch.tv/itzflibat)](https://twitch.tv/itzflibat)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://dsc.gg/itzflibat)](https://dsc.gg/itzflibat)
+____
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sbxy5jr25y3viy05cg9wgah7y&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=sbxy5jr25y3viy05cg9wgah7y&redirect=true)
 
 ____
 
